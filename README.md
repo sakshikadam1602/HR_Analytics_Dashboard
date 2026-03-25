@@ -50,6 +50,15 @@ The dataset contains employee-related information such as:
 
 ---
 
+## 🚀 How to View Dashboard
+
+1. Download the `.pbix` file
+2. Open using **Power BI Desktop**
+3. Explore different dashboard pages
+4. Use filters for interactive analysis
+
+---
+
 ## 📈 Insights
 
 * Workforce is balanced with good diversity
